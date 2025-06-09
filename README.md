@@ -1,1 +1,2 @@
-lms-intership-portal-react
+LMS Intership Portal
+Tech: React Js, Golang, Postgresql
